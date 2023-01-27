@@ -8,5 +8,6 @@ The extension just removes elements with certain classes from the website using 
 The code was mainly written by ChatGPT (Jan 9 Version).
 # Install
 Simply drag and drop the .crx file (can be found in the release here on GitHub) to the extension page in your Chromium browser, e.g. `vivaldi://extensions/`.
-## Known bugs
-Currently, the browser displays a warning "CRX_REQUIRED_PROOF_MISSING" when downloading the .crx file. However, the extension can be installed via drag and drop without any issues.
+# Known bugs
+* Currently, the browser displays a warning "CRX_REQUIRED_PROOF_MISSING" when downloading the .crx file. However, the extension can be installed via drag and drop without any issues.
+* Sometimes, the gallery view on the main page is not being rendered properly.
